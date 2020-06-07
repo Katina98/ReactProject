@@ -1,0 +1,33 @@
+.cardd {
+    border-radius: 2rem;
+    border:2px solid #CC99FF
+    ;
+    margin-bottom: 10%;
+    transition: transform 0.5s;
+}
+
+.cardd:hover {
+    transform: scale(1.2);
+}
+
+.card-text-ed {
+    font-size: 20px;
+    color: #00FFFF;
+}
+
+.card-text-del {
+    font-size: 20px;
+    color: #FFCCFF;
+}
+
+.note-card {
+    font-size: 15px;
+    font-style: italic;
+    color: #FFFF99;
+}
+
+
+.space {
+    margin-top: 20%;
+    height: 50%;
+}

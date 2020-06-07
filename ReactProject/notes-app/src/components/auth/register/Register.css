@@ -1,0 +1,17 @@
+.register-wrapper {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    background-image: url("https://wallpapercave.com/wp/wp3687982.jpg");
+}
+
+.register-form {
+    width: 400px;
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    background-color: lightcyan;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}

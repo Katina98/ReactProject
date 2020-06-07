@@ -1,0 +1,184 @@
+{
+  "users": [
+    {
+      "id": "5ea2b9a9d9c1618573cd5c08",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/317/300?random=1",
+      "age": "3243",
+      "name": "Dustin Miles",
+      "email": "admin@admin.com",
+      "password": "mypass"
+    },
+    {
+      "id": "5ea2b9a94a1b7d4eb605131e",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/317/300?random=2",
+      "age": 40,
+      "name": "Alister Anderson",
+      "email": "admin@admin1.com",
+      "password": "mypass"
+    },
+    {
+      "id": "5ea2b9a939bbad67b304814f",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/317/300?random=3",
+      "age": 24,
+      "name": "Grace Rose",
+      "email": "deanasalinas@reversus.com",
+      "password": 12345
+    },
+    {
+      "name": "Ema Wolf",
+      "age": "34",
+      "email": "ema@admin.com",
+      "password": "mypass",
+      "isAdmin": false,
+      "isActive": true,
+      "picture": "https://picsum.photos/317/300?random=4",
+      "id": "dR5vnt5"
+    },
+    {
+      "name": "Katina",
+      "email": "k@mail.com",
+      "password": "12345",
+      "age": "21",
+      "errorMessage": "",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/317/300?random=5",
+      "id": "xzNEua3"
+    },
+    {
+      "name": "Kierra Gentry",
+      "email": "centry@gmail.com",
+      "password": "12345",
+      "age": "23",
+      "errorMessage": "",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "id": "jZmJreZ"
+    }
+  ],
+  "notes": [
+    {
+      "title": "Dalily Note",
+      "content": "Have a nice day",
+      "authorId": "5ea2b9a94a1b7d4eb605131e",
+      "authorName": "Steele Anderson",
+      "date": "2020-05-29T09:54:16.922Z",
+      "id": 1,
+      "status": "Active"
+    },
+    {
+      "title": "Daily Note 2",
+      "content": "Smile",
+      "authorId": "5ea2b9a94a1b7d4eb605131e",
+      "authorName": "Steele Anderson",
+      "date": "2020-05-29T09:54:27.529Z",
+      "id": 2,
+      "status": "Active"
+    },
+    {
+      "title": "My first note",
+      "content": "Hi",
+      "authorId": "5ea2b9a94a1b7d4eb605131e",
+      "authorName": "Steele Anderson",
+      "date": "2020-05-29T10:08:06.832Z",
+      "id": 3,
+      "status": "Active"
+    },
+    {
+      "title": "First Note",
+      "content": "Celebration tomorrow",
+      "authorId": "dR5vnt5",
+      "authorName": "gsfdgfsdg sf",
+      "date": "2020-05-29T10:16:55.082Z",
+      "id": 4,
+      "status": "Active"
+    },
+    {
+      "title": "MY NOTE 2",
+      "content": "feeling happy today",
+      "authorId": "dR5vnt5",
+      "authorName": "gsfdgfsdg sf",
+      "date": "2020-05-29T10:17:14.790Z",
+      "id": 5,
+      "status": "Active"
+    },
+    {
+      "title": "Active status",
+      "content": "Active stat",
+      "authorId": "5ea2b9a9d9c1618573cd5c08",
+      "authorName": "Roxanne Santiago",
+      "date": "2020-05-29T10:28:07.388Z",
+      "id": 6
+    },
+    {
+      "title": "Sunny day",
+      "content": "Go to the beach",
+      "authorId": "5ea2b9a9d9c1618573cd5c08",
+      "authorName": "Roxanne Santiago",
+      "date": "2020-05-29T10:28:37.448Z",
+      "status": "Pending",
+      "id": 7
+    },
+    {
+      "title": "Daily Notes",
+      "content": "Watch a movie",
+      "authorId": "5ea2b9a9d9c1618573cd5c08",
+      "authorName": "Roxanne Santiago",
+      "date": "2020-05-29T10:29:33.947Z",
+      "status": "Active",
+      "id": 8
+    },
+    {
+      "title": "Success status",
+      "content": "Successful day",
+      "authorId": "5ea2b9a9d9c1618573cd5c08",
+      "authorName": "Roxanne Santiago",
+      "date": "2020-05-29T10:34:49.062Z",
+      "status": "Active",
+      "id": 9
+    },
+    {
+      "title": "Holiday",
+      "content": "Rest",
+      "authorId": "5ea2b9a9d9c1618573cd5c08",
+      "authorName": "Roxanne Santiago",
+      "date": "2020-05-29T10:38:44.852Z",
+      "status": "Active",
+      "id": 10
+    },
+    {
+      "title": "FInal test",
+      "content": "It works",
+      "authorId": "5ea2b9a9d9c1618573cd5c08",
+      "authorName": "Roxanne Santiago",
+      "date": "2020-05-29T10:38:55.708Z",
+      "status": "Done",
+      "id": 11
+    },
+    {
+      "title": "Happy Note",
+      "content": "\\{^_^}/ hi!",
+      "authorId": "xzNEua3",
+      "authorName": "Katina",
+      "date": "2020-06-07T10:21:51.485Z",
+      "status": "Active",
+      "id": 12
+    },
+    {
+      "title": "Information Note",
+      "content": "Happy day",
+      "authorId": "jZmJreZ",
+      "authorName": "Kierra Gentry",
+      "date": "2020-06-07T10:55:36.757Z",
+      "status": "Active",
+      "id": 13
+    }
+  ]
+}
